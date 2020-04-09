@@ -8,7 +8,7 @@ Some Master Cohorts spaces may have additional rules in place, which will be mad
 
  
 
-##The following behaviors are considered harassment and are unacceptable within our community:
+## The following behaviors are considered harassment and are unacceptable within our community:
 
 * Violence, threats of violence or violent language directed against another person.
 * Discriminatory jokes and language.
@@ -27,7 +27,7 @@ Some Master Cohorts spaces may have additional rules in place, which will be mad
 
 ---
 
-**Consequences of Unacceptable Behavior
+**Consequences of Unacceptable Behavior**
 
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
@@ -39,7 +39,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ---
 
-**Reporting Guidelines
+**Reporting Guidelines**
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer through meetup or a cohort administrator as soon as possible.
 
