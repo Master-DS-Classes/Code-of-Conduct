@@ -1,4 +1,4 @@
-# Code-of-Conduct
+# Code of Conduct
 
 Master Cohorts is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -8,7 +8,7 @@ Some Master Cohorts spaces may have additional rules in place, which will be mad
 
  
 
-## The following behaviors are considered harassment and are unacceptable within our community:
+### The following behaviors are considered harassment and are unacceptable within our community:
 
 * Violence, threats of violence or violent language directed against another person.
 * Discriminatory jokes and language.
