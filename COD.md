@@ -6,6 +6,8 @@ This code of conduct applies to all Master Cohorts spaces, including meetups, Tw
 
 Some Master Cohorts spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
+---
+
  
 
 ### The following behaviors are considered harassment and are unacceptable within our community:
